@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mmanoghna.allinonebankapp.UTILITIES">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DOWNLOAD AS"
+        android:background="@drawable/mybutton"
+        android:textColor="#ffffff"
+        android:textSize="20dp"/>
+
+    <ImageView
+        android:id="@+id/pd"
+        android:layout_marginTop="15dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/pdf"
+        android:layout_marginBottom="15dp"/>
+
+    <ImageView
+
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/excel"
+        android:layout_marginBottom="15dp"/>
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/xml"/>
+</LinearLayout>
+
+</FrameLayout>

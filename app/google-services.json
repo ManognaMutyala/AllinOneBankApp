@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793643532467",
+    "firebase_url": "https://bankapp-46785.firebaseio.com",
+    "project_id": "bankapp-46785",
+    "storage_bucket": "bankapp-46785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793643532467:android:d11e13c85ba0e4f6",
+        "android_client_info": {
+          "package_name": "com.example.mmanoghna.allinonebankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793643532467-0dq4q01m2ph3o5l91kbpuan0jtfiifqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mmanoghna.allinonebankapp",
+            "certificate_hash": "f9572c5f096a5dd4b4fb81542cb4bcc0b869da6a"
+          }
+        },
+        {
+          "client_id": "793643532467-sbrehqe1id6eobho517gapgp59rt0clo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRWbdBACm5h1BhaOubsS3-ICwFYc2oZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793643532467-sbrehqe1id6eobho517gapgp59rt0clo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
